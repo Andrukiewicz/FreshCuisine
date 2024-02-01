@@ -1,6 +1,6 @@
 # FreshCuisine: Your Ultimate Meal Planning Solution
 
-FreshCuisine is a comprehensive meal planning application built using Node.js and React. It's designed to streamline meal preparation, provide precise pricing, and optimize ordering processes, making it an ideal solution for both individual users and wholesalers.
+FreshCuisine is a comprehensive food selling application built using Node.js and React. It's designed to streamline counting, packing and selling set of meals, provide precise pricing, and optimize ordering processes, making it an ideal solution for both individual users and wholesalers.
 
 ## Features
 
