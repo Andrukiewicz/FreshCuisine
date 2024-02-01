@@ -1,0 +1,16 @@
+{
+  "name": "3klik",
+  "version": "1.0.0",
+  "description": "3klikreact",
+  "main": "index.js",
+  "scripts": {
+    "client": "cd client && npm start",
+    "backend": "cd server && nodemon app.js",
+    "dev": "concurrently \"npm run backend\" \"npm run client\""
+  },
+  "author": "czosnek",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^7.6.0"
+  }
+}
